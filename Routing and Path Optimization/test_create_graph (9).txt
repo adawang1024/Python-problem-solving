@@ -1,0 +1,4 @@
+a b 6 highway 3
+b e 10 uphill 4
+c b 5 toll 1
+e c 5 local 2
